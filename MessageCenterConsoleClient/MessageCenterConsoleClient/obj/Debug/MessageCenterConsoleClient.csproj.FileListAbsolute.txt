@@ -1,0 +1,8 @@
+C:\JobProv\MessageCenterConsoleClient\MessageCenterConsoleClient\bin\Debug\MessageCenterConsoleClient.exe.config
+C:\JobProv\MessageCenterConsoleClient\MessageCenterConsoleClient\bin\Debug\MessageCenterConsoleClient.exe
+C:\JobProv\MessageCenterConsoleClient\MessageCenterConsoleClient\bin\Debug\MessageCenterConsoleClient.pdb
+C:\JobProv\MessageCenterConsoleClient\MessageCenterConsoleClient\obj\Debug\MessageCenterConsoleClient.exe
+C:\JobProv\MessageCenterConsoleClient\MessageCenterConsoleClient\obj\Debug\MessageCenterConsoleClient.pdb
+C:\Users\ali.VOK\Desktop\ArbetsProv\MessageCenterConsoleClient\MessageCenterConsoleClient\bin\Debug\MessageCenterConsoleClient.exe.config
+C:\Users\ali.VOK\Desktop\ArbetsProv\MessageCenterConsoleClient\MessageCenterConsoleClient\obj\Debug\MessageCenterConsoleClient.exe
+C:\Users\ali.VOK\Desktop\ArbetsProv\MessageCenterConsoleClient\MessageCenterConsoleClient\obj\Debug\MessageCenterConsoleClient.pdb

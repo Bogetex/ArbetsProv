@@ -1,0 +1,8 @@
+C:\JobProv\MessageCenter\MessageServiceHost\bin\MessageServiceHost.dll.config
+C:\JobProv\MessageCenter\MessageServiceHost\bin\MessageServiceHost.dll
+C:\JobProv\MessageCenter\MessageServiceHost\bin\MessageServiceHost.pdb
+C:\JobProv\MessageCenter\MessageServiceHost\bin\MessageClassLibrary.dll
+C:\JobProv\MessageCenter\MessageServiceHost\bin\MessageClassLibrary.pdb
+C:\JobProv\MessageCenter\MessageServiceHost\obj\Debug\MessageServiceHost.csprojResolveAssemblyReference.cache
+C:\JobProv\MessageCenter\MessageServiceHost\obj\Debug\MessageServiceHost.dll
+C:\JobProv\MessageCenter\MessageServiceHost\obj\Debug\MessageServiceHost.pdb

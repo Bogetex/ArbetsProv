@@ -1,0 +1,5 @@
+C:\JobProv\MessageCenter\MessageClassLibrary\bin\Debug\MessageClassLibrary.dll
+C:\JobProv\MessageCenter\MessageClassLibrary\bin\Debug\MessageClassLibrary.pdb
+C:\JobProv\MessageCenter\MessageClassLibrary\obj\Debug\MessageClassLibrary.csprojResolveAssemblyReference.cache
+C:\JobProv\MessageCenter\MessageClassLibrary\obj\Debug\MessageClassLibrary.dll
+C:\JobProv\MessageCenter\MessageClassLibrary\obj\Debug\MessageClassLibrary.pdb
